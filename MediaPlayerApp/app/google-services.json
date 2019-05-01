@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "393230300175",
+    "firebase_url": "https://mediaplayerapp-bdc4a.firebaseio.com",
+    "project_id": "mediaplayerapp-bdc4a",
+    "storage_bucket": "mediaplayerapp-bdc4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393230300175:android:1e4437d6ef4d2607",
+        "android_client_info": {
+          "package_name": "org.dgonzalo.mediaplayerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393230300175-9pcohmtfmgsao2c86pfr198357ce27eh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.dgonzalo.mediaplayerapp",
+            "certificate_hash": "27f5f2114c0bda405b1f79370ad7721723d17803"
+          }
+        },
+        {
+          "client_id": "393230300175-m36567uku0ql5h5r7ln60l7bnlnqgeg6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.dgonzalo.mediaplayerapp",
+            "certificate_hash": "95eb3f145b53be6334c071d1182089d9695511cd"
+          }
+        },
+        {
+          "client_id": "393230300175-h9lh6133q2d0kk9a7d9epm9s2f7q0781.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA9h7nu85NZi2oKjXwCo94_rqFWXmQAe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393230300175-h9lh6133q2d0kk9a7d9epm9s2f7q0781.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
